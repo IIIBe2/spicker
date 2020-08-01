@@ -1,0 +1,1 @@
+python C:\Users\artem\Desktop\Spicker\main.py
